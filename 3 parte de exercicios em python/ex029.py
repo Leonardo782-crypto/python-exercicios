@@ -1,0 +1,6 @@
+numero=int(input('Informe um número '))
+n=str(numero)
+print('O numero em unidade é {}'.format(n[3]))
+print('O numero em dezena é {}'.format(n[2]))
+print('O numero em centena é {}'.format(n[1]))
+print('O numero em milhar é {}'.format(n[0]))
